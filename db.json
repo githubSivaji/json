@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Category 1",
+      "widgets": [
+        {
+          "id": 101,
+          "name": "Widget 1",
+          "description": "This is the description for Widget 1"
+        },
+        {
+          "id": 102,
+          "name": "Widget 2",
+          "description": "This is the description for Widget 2"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Category 2",
+      "widgets": [
+        {
+          "id": 201,
+          "name": "Widget A",
+          "description": "This is the description for Widget A"
+        },
+        {
+          "id": 202,
+          "name": "Widget B",
+          "description": "This is the description for Widget B"
+        },
+        {
+          "id": 203,
+          "name": "Widget C",
+          "description": "This is the description for Widget C"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categoryName": "Category 3",
+      "widgets": [
+        {
+          "id": 301,
+          "name": "Widget X",
+          "description": "This is the description for Widget X"
+        }
+      ]
+    }
+  ]
+}
